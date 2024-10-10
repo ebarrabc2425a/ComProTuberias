@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ComProTuberias:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ComProTuberias_jar</output-path>
+    <root id="archive" name="ComProTuberias.jar">
+      <element id="module-output" name="ComProTuberias" />
+    </root>
+  </artifact>
+</component>
