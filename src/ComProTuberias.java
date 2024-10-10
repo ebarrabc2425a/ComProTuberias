@@ -6,6 +6,9 @@ import java.io.PipedOutputStream;
  * Comunicación entre un proceso escritor y un proceso lector utilizando tuberías en Java, asegurando que los mensajes
  * se envían y se reciben correctamente.
  * Una vez que ambos procesos han terminado su ejecución, se imprime un mensaje final.
+ *
+ * @author Eduardo Barra Balao
+ * @version 0.2
  */
 public class ComProTuberias {
     public static void main(String[] args) {
